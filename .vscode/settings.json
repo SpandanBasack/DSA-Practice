@@ -5,6 +5,7 @@
         "ostream": "cpp",
         "stack": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "iostream": "cpp"
     }
 }
